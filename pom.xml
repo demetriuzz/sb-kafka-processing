@@ -9,10 +9,10 @@
         <version>2.4.6</version>
         <relativePath/>
     </parent>
-    <groupId>ru.demetriuzz.kafka.processing</groupId>
+    <groupId>ru.demetriuzz.sb.kafka</groupId>
     <artifactId>kafka-processing</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Kafka Processing</name>
+    <name>Spring Boot Kafka Processing</name>
 
     <properties>
         <java.version>11</java.version>
